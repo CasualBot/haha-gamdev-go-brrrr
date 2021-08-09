@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Tool
   - Weapon
+  - Environment
   layers:
   - Default
   - TransparentFX
@@ -13,6 +14,7 @@ TagManager:
   - 
   - Water
   - UI
+  - Player
   - 
   - 
   - 
@@ -35,8 +37,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - Environment Object
   - Item
   - Ground
   m_SortingLayers:
